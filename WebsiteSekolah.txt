@@ -1,0 +1,4 @@
+Inisilisasi Project Web Sekolah
+- Membuat Halaman Utama
+- Membuat Halaman Back Office
+- Membuat Menu Login
