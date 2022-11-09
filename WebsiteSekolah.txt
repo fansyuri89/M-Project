@@ -2,7 +2,7 @@ Inisilisasi Project Web Sekolah
 - Membuat Halaman Utama
 - Membuat Halaman Back Office
 - Membuat Halaman User
-- Membuat Halaman Admin
+- Membuat Halaman Staff Sekolah
 - Membuat Database
 - Membuat Table Guru
 - Membuat Table Staff
